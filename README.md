@@ -1,2 +1,2 @@
-# NLP-y-visualización-de-Tweets-sobre-desastres
-Monitoreo y clasificación de tweets sobre desastres naturales utilizando modelos BERT y procesamiento de lenguaje natural (NLP).
+# NLP-and-Visualization-of-Disaster-Tweets
+Monitoring and classification of tweets about natural disasters using BERT models and natural language processing (NLP).
